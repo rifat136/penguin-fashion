@@ -1,0 +1,48 @@
+#navbar{
+    height: 40px;
+    width: 160px;
+    /* margin-left: 10px; */
+}
+.navbar{
+    background-color: wheat;
+}
+#text{
+    font-weight: 600;
+    font-size: 120%;
+    color: orangered;
+    /* background-color:orangered; */
+    border-radius: 30px;
+    padding: 10px;
+}
+.banner-txt{
+    color: orange;
+}
+#banner-span{
+    color: white;
+}
+.banner{
+    height: 500px;
+    background-color: black;
+    
+    /* width: 1000px; */
+}
+/* .card-img-top{
+    height: 200px;
+    width: 250px;
+} */
+.col-c{
+    width: 370px;
+    height: 550px;
+}
+.container-bottom{
+    /* background-color: lightcyan; */
+    padding-left: 60px;
+    padding-right: 60px;
+    width: 1073;
+    height: 589px;
+
+}
+
+
+
+
